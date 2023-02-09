@@ -1,0 +1,14 @@
+# local package
+-e .
+
+# external requirements
+click
+Sphinx
+coverage
+awscli
+flake8
+pandas 
+seaborn 
+matplotlib
+numpy
+python-dotenv>=0.5.1
